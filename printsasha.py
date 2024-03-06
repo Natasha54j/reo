@@ -1,1 +1,2 @@
 print('Sasha')
+print("Natasha")
